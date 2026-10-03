@@ -814,6 +814,11 @@ p {
   color: var(--accent);
 }
 
+.footer-fun-link {
+  padding-bottom: 16px;
+  text-align: center;
+}
+
 @media (max-width: 760px) {
   .container {
     width: min(100% - 40px, var(--content-width));
